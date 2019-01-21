@@ -1,0 +1,106 @@
+body{
+    margin: 0px;
+}
+.top_title{
+    position: fixed;
+    z-index: 4;
+    height: 48px;
+    width: 100%;
+
+    background-color: #EC4271;
+    display: -webkit-box;
+    -webkit-box-orient: horizontal;
+}
+.top_title .top_symbol{
+    position: fixed;
+    height: 32px;
+    width: 32px;
+    z-index: 200;
+    background: url(../../img/about/icon.png) no-repeat;
+    margin-top: 8px;
+    margin-left: 8px;
+    background-position: -896px -256px ;
+
+}
+.top_title .top_text{
+   position: fixed;
+    left: 0px;
+    height: 48px;
+   width: 100%;
+    line-height: 48px;
+    font-size: 15px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.line{
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 96%;
+    height: 35px;
+    display: -webkit-box;
+    -webkit-box-orient: horizontal;
+    border: solid 1px #D2D2D2;
+}
+.line .line_left{
+    width: 10px;
+    height: 35px;
+    background-color: #FF5F5F;
+}
+.line .line_right{
+    margin-left: 20px;
+    height: 35px;
+    line-height: 35px;
+    font-size: 16px;
+    letter-spacing: 2px;
+}
+.colla{
+    margin-left: 2%;
+    margin-top: 5px;
+    width: 96%;
+    border: solid 1px #BCBCBC;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+}
+.colla .question{
+    height: 32px;
+    width: 100%;
+    display: -webkit-box;
+    -webkit-box-orient: horizontal;
+}
+.colla .question .question_icon{
+    height: 18px;
+    width: 18px;
+    line-height: 18px;
+    margin-left: 6px;
+    margin-top: 6px;
+    text-align: center;
+    font-size: 13px;
+    border-radius: 18px;
+    border: solid 1px red;
+    color: red;
+}
+
+.colla .question .question_text{
+    height: 32px;
+    line-height: 32px;
+    font-size: 13px;
+    padding-left: 5px;
+    color: #333333;
+}
+.colla .kg{
+    width: 100%;
+    height: 1px;
+    background-color: #BCBCBC;
+}
+.colla .answer{
+    margin-left: 32px;
+    margin-right: 4px;
+    color: #9C9C9C;
+    font-size: 13px;
+    padding-bottom: 8px;
+    padding-top: 4px;
+    padding-right: 4px;
+    text-align: justify;
+    display: none;
+}

@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+}
+.top_title{
+    position: relative;
+    z-index: 4;
+    height: 48px;
+    width: 100%;
+    background-color: #EC4271;
+    display: -webkit-box;
+    -webkit-box-orient: horizontal;
+}
+.top_title .top_symbol{
+    position: fixed;
+    height: 32px;
+    width: 32px;
+    z-index: 200;
+    background: url(../../img/about/icon.png) no-repeat;
+    margin-top: 8px;
+    margin-left: 8px;
+    background-position: -896px -256px ;
+
+}
+.top_title .top_text{
+    position: fixed;
+    left: 0px;
+    height: 48px;
+    width: 100%;
+    line-height: 48px;
+    font-size: 15px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.device{
+     margin-top: 5px;
+
+}
+.base{
+    margin-top: 5px;
+}

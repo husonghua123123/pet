@@ -1,0 +1,18 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html><html lang="en"><head><meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1.0, user-scalable=no, target-densitydpi=medium-dpi"/><meta charset="UTF-8"><script type="text/javascript" src="__PUBLIC__/js/swiper-3.4.2.jquery.min.js"></script><script type="text/javascript" src="__PUBLIC__/js/jquery-3.2.1.min.js"></script><link rel="stylesheet" type="text/css" href="__PUBLIC__/css/swiper-4.1.6.min.css"><link rel="stylesheet" type="text/css" href="__PUBLIC__/css/about/question.css"><title>小贴士</title></head><body><div class="top_title"><div class="top_symbol" ></div><div class="top_text">小贴士</div></div><div style="height: 48px;"></div><div class="shouye" id="shouye"><div class="swiper-container"><div class="swiper-wrapper"><div class="swiper-slide" ><img src="__PUBLIC__/img/about/question.jpg" width="100%"  border="0" ></div><div class="swiper-slide" ><img src="__PUBLIC__/img/about/question.jpg" width="100%"  border="0" ></div></div></div></div><div class="line"><div class="line_left"></div><div class="line_right">小贴士</div></div><div class="colla"><div class="question"><div class="question_icon">问</div><div class="question_text">养狗新手注意事项？</div></div><div class="kg"></div><div class="answer"><p>(1)注意狗狗的恐惧感</p>             刚刚到一个新的环境，小狗也许会因为不安而不停的犬叫，这个时候它的做为主人，的旧衣服铺在垫子上面，把窝放在互相随时都能看到对方的地方，从而减少恐慌感；应该准备好足够的粮食和水，并且为它营造出一个温暖舒适的气氛，可以用柔软的的旧衣服铺在垫子上面，把窝放在互相随时都能看到对方的地方，从而减少恐慌感；
+             <p>(2)注意给狗狗洗澡</p>             小狗进入新的陌生环境中，会因为不适应而产生过激反应，抵抗力从而下降，如果这个时候给它洗澡，很容易就会生病。如果小狗身上的异味实在无法忍受时，可以用湿毛巾或干洗粉进行擦拭，一定注意保暖，待它跟你熟络起来适应了新的环境，再进行大规模洗澡；
+             <p>(3)注意喂食的食材</p>             关于喂食的问题，如果是幼犬的话，一般每日3至4次进行喂食就好；如果是一个半月以内的小狗，建议使用专用奶粉或者爱吃的粥类等，但千万别放盐和油；如果是两个月以上的小狗，差不多就可以喂幼犬狗粮了，但是注意要事先泡软，为了加强营养可以适当选择一些宠物专用营养品，但不要过量；
+         </div></div><div class="colla"><div class="question"><div class="question_icon">问</div><div class="question_text">新手养狗切记不能做五件事？</div></div><div class="kg"></div><div class="answer"><p>第一忌：洗澡</p><p>第二忌：牛奶</p><p>第三忌：吃肉</p><p>第四忌：不带狗绳出门</p><p>第五忌：急于驱虫</p></div></div><div class="colla"><div class="question"><div class="question_icon">问</div><div class="question_text">如何让狗儿活的长久？</div></div><div class="kg"></div><div class="answer"><p>保持身体健康、保持心情愉快、选好的狗粮</p><p>温馨提醒：少量多餐是狗狗最佳的饮食习惯，帮助狗狗控制进食量，减少肠胃负担，更不容易引起肠胃问题。</p></div></div><div class="colla"><div class="question"><div class="question_icon">问</div><div class="question_text">中毒现象频发，狗狗常见中毒有效解决办法？</div></div><div class="kg"></div><div class="answer"><p>1、冲洗擦拭</p><p>经皮肤吸收而中毒的，用清水或肥皂水反复冲洗污染部位的皮毛，防止继续吸收。
+                 注意：敌百虫中毒禁止用肥皂水冲洗。因为敌百虫遇强碱性药物可分解出毒性更强的敌敌畏，且分解过程随碱性增强和温度升高而加速。</p><p> 2、催吐</p><p>经口食入毒物不超过2小时未被吸收或吸收不多时，应尽快催吐，让毒物连同呕吐物一并排出体外，防止进一步吸收。在家可灌食肥皂水催吐。 如果狗狗误食的是强酸或强碱等腐蚀性毒物，禁止催吐，尽快送院救治。毒物进入体内4小时后，多数已被肠道吸收，此时催吐已无效果，尽快将狗狗送至医院。</p></div></div><div class="colla"><div class="question"><div class="question_icon">问</div><div class="question_text">去除狗狗身上异味的方法？</div></div><div class="kg"></div><div class="answer"><p>1、定期给狗狗清理肛门腺</p><h10>定期给狗狗清理肛门腺会减少狗狗屁屁的味道，基本上一个月一次就够了，不能清理的太勤。</h10><p> 2、尽量不要让狗狗在居室内排泄</p><h10>比起狗狗身上的味道，狗狗的臭臭和NN的味道更难闻，训练狗狗不在居室内排泄，可以有效减少狗狗带来的异味。</h10><p>3、合理的给狗狗洗澡</p><h10>合理的给狗狗洗澡也可以很大程度上减少狗狗的体味，不过要注意的是次数不要过于频繁，那样的话会伤害到狗狗的皮肤。冬季每月1-2次，夏季每周一次就可以了。</h10><p>4、定期给狗狗刷牙</p><h10>定期给狗狗刷牙，可以避免湿软的食物粘在狗狗的牙齿上，从而造成的嘴巴臭臭的味道，这样也会减少狗味。</h10></div></div><div style="height: 10px"></div></body></html><script> $(function () {
+     $(".top_symbol").click(function () {
+        window.history.back(-1);
+
+     });
+     $(".question").click(function () {
+         $(this).next().next().toggle(500,
+            function () {
+
+            }
+         );
+     });
+ })
+</script>

@@ -1,0 +1,82 @@
+body{
+    margin: 0px;
+    background-color: #E7E7E7;
+}
+.top_title{
+    position: fixed;
+    z-index: 4;
+    height: 48px;
+    width: 100%;
+
+    background-color: #EC4271;
+    display: -webkit-box;
+    -webkit-box-orient: horizontal;
+}
+.top_title .top_symbol{
+    position: fixed;
+    height: 32px;
+    width: 32px;
+    z-index: 200;
+    background: url(../../img/about/icon.png) no-repeat;
+    margin-top: 8px;
+    margin-left: 8px;
+    background-position: -896px -256px ;
+
+}
+.top_title .top_text{
+    position: fixed;
+    left: 0px;
+    height: 48px;
+    width: 100%;
+    line-height: 48px;
+    font-size: 15px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.category{
+    margin: 12px;
+    border-radius: 5px;
+    background-color: white;
+    padding: 10px;
+
+}
+.category .ca_top{
+    height: 36px;
+    display: -webkit-box;
+    -webkit-box-orient: horizontal;
+}
+.category .ca_top .ca_color{
+
+    height: 32px;
+    width: 5px;
+    background-color: red;
+}
+.category .ca_top .ca_ts{
+    margin-left: 10px;
+    height: 32px;
+    line-height: 32px;
+    font-size: 15px;
+}
+.category .ca_top .more{
+    position: absolute;
+    right: 15px;
+    width: 32px;
+    height: 32px;
+    background: url("../../img/about/icon.png");
+    background-position: -928px -192px;
+}
+.category .line{
+    width: 100%;
+    height: 1px;
+    background-color: #E7E7E7;
+}
+.category .ca_title{
+    font-weight: bold;
+    height: 30px;
+    line-height: 30px;
+}
+.category .ca_detail{
+    font-size: 13px;
+    font-family: "宋体";
+    color: #717170;
+}

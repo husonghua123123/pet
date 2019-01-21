@@ -1,0 +1,49 @@
+.footer {
+	position:fixed;
+	left:0px;
+	bottom:0px;
+	padding:9px 0px 5px 0px;
+	height:33px;
+	width:100%;
+	border-top:1px solid rgb(200,200,200);
+	display:-webkit-box;
+	-webkit-box-orient:horizontal;
+	background-color:#FFF;
+}
+.footer .menu{
+	height:33px;
+	-webkit-box-flex:1;
+	background-repeat:no-repeat;
+	background-size:22px 33px;
+	background-position:center top;
+	cursor:pointer;
+}
+.footer .menu.current{
+	color:rgb(76,165,255);
+}
+
+.footer .menu.index{
+	background-image:url(../img/nav/index1.png);
+}
+.footer .menu.book{
+	background-image:url(../img/nav/book1.png);
+}
+.footer .menu.find{
+	background-image:url(../img/nav/find1.png);
+}
+.footer .menu.usercenter{
+	background-image:url(../img/nav/mine1.png);
+}
+.footer .menu.index.current{
+	background-image:url(../img/nav/index2.png);
+}
+
+.footer .menu.book.current{
+	background-image:url(../img/nav/book2.png);
+}
+.footer .menu.find.current{
+	background-image:url(../img/nav/find2.png);
+}
+.footer .menu.usercenter.current{
+	background-image:url(../img/nav/mine2.png);
+}
